@@ -1,2 +1,2 @@
-# aunystly
+# aunyst
 Profile README
